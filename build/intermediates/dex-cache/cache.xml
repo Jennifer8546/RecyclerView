@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_71b7145857036b1ede5580391eb2c2c6009264d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-11.0.4_7681c63f805fa1a8df14b7e8fd5301bf9bb629af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_a1f32add453b15928a441c9dd31fc9727603cbc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_f6b695bd03114b0379f06987dc6c5696163a6883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.4_eba05a87a03e152843be9744375a036fd7e5e59b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-11.0.4_c31e53f8510e4178ce041729a911187babdf846f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-11.0.4_3a5cd8b8b6e03e20ae647d17e13ea0eb306b8050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_c79ad1735bd876774905ecbcfe43191394f6f119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_0b3dc9553245f0aac4917800b637d8c24f44d467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_90f96134d046f1e3d57befc607d5196c01beb9bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_e905ef4c76955abeb5c48468d0ccc708e630a4b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_fef50463af761c1de0bb117b53d7d9e9a88904a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-11.0.4_d06c0408e1b8ea78583256690544c18cc5cb015c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_11f0edc554f14b2f90f4988e368fd6d908f00a6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-11.0.4_be53b0a7883ee9f91dcddb2e7435a7ac611bc183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-11.0.4_559b9f99e5c2145455b7d646293e21a162a950ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_a0643f052d1b6c81e097aa48332f0a6175d44dcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_23816ac7086566e44e0ad4b5e869292c732fcd18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_8dea5bc25a0b250855377a5088b10eafbc37835a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-11.0.4_3c778b4b169805f566133aa804c62946da47d276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_bbab57f2a37ed2fb39c9590fde43da7d5a9e28fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-11.0.4_dd405d472c75a62ac8bb7fd6484cde33986b6931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="C:\Users\123\Desktop\Topic_08\RecyclerView\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-11.0.4_7ac2d76ee2bc12151e0a8ad341302c56cd87136a.jar" />
+    </item>
+
+</items>
