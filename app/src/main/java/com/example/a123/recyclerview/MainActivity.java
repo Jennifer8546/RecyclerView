@@ -25,7 +25,7 @@ import com.google.firebase.storage.UploadTask;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
-
+//https://github.com/ricardoogliari/SimpleFirebaseStorage
 public class MainActivity extends AppCompatActivity {
 
     int index = 0;
@@ -36,20 +36,16 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         List<String> urls = new ArrayList<>();
-        urls.add("gs://recyclerview-97d49.appspot.com/1024x768 (1).jpg");
-        urls.add("gs://recyclerview-97d49.appspot.com/1024x768 (2).jpg");
-        urls.add("gs://recyclerview-97d49.appspot.com/1024x768 (3).jpg");
-        urls.add("gs://recyclerview-97d49.appspot.com/1024x768 (4).jpg");
-        urls.add("gs://recyclerview-97d49.appspot.com/1024x768.jpg");
-        urls.add("gs://recyclerview-97d49.appspot.com/1280x1024 (1).jpg");
+        urls.add("gs://recyclerview-97d49.appspot.com/五官.png");
+        urls.add("gs://recyclerview-97d49.appspot.com/動物.png");
+        urls.add("gs://recyclerview-97d49.appspot.com/植物.png");
+
 
         final ImageView[] imgViews = new ImageView[7];
         imgViews[0] = (ImageView) findViewById(R.id.img1);
         imgViews[1] = (ImageView) findViewById(R.id.img2);
         imgViews[2] = (ImageView) findViewById(R.id.img3);
-        imgViews[3] = (ImageView) findViewById(R.id.img4);
-        imgViews[4] = (ImageView) findViewById(R.id.img5);
-        imgViews[5] = (ImageView) findViewById(R.id.img6);
+
 
         for (String url : urls) {
             StorageReference gsReference = Core.storage.getReferenceFromUrl(url);
@@ -72,14 +68,14 @@ public class MainActivity extends AppCompatActivity {
 
         }
     }
-
-    @Override
+//選單部分省略
+    /*@Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.menu, menu);
         return true;
     }
 
-    @Override
+   @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         Intent intent = new Intent();
         intent.setType("image/*");
@@ -87,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
         startActivityForResult(Intent.createChooser(intent,
                 "Select Picture"), 10);
         return true;
-    }
+    }*/
 
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
