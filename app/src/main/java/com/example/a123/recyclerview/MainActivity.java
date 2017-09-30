@@ -25,7 +25,7 @@ import com.google.firebase.storage.UploadTask;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
-//https://github.com/ricardoogliari/SimpleFirebaseStorage
+
 public class MainActivity extends AppCompatActivity {
 
     int index = 0;
@@ -56,7 +56,6 @@ public class MainActivity extends AppCompatActivity {
                     Log.e("STORAGE", "SUCESSO!!!!: " + bytes.length);
                     imgViews[index].setImageBitmap(BitmapFactory.decodeByteArray(bytes, 0, bytes.length));
                     index++;
-
                 }
             }).addOnFailureListener(new OnFailureListener() {
                 @Override
@@ -64,8 +63,6 @@ public class MainActivity extends AppCompatActivity {
                     Log.e("STORAGE", "falha!!!! = " + exception.getLocalizedMessage());
                 }
             });
-
-
         }
     }
 //選單部分省略
@@ -90,7 +87,6 @@ public class MainActivity extends AppCompatActivity {
         if (resultCode == Activity.RESULT_OK) {
             if (requestCode == 10) {
                 Uri selectedImageUri = data.getData();
-
                 UploadTask task = Core.storage.getReference("teste.png").putFile(selectedImageUri);
                 task.addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
                     @Override
